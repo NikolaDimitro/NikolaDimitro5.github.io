@@ -29,7 +29,7 @@ const apps = [
     },
     {
         id: "about-vivek",
-        title: "About Vivek",
+        title: "About Me",
         icon: './themes/Yaru/system/user-home.png',
         disabled: false,
         favourite: true,
@@ -61,7 +61,7 @@ const apps = [
         disabled: false,
         favourite: true,
         desktop_shortcut: false,
-        screen: displaySpotify, // India Top 50 Playlist 😅
+        screen: displaySpotify,
     },
     {
         id: "settings",
@@ -98,7 +98,7 @@ const apps = [
         favourite: false,
         desktop_shortcut: true,
         isExternalApp: true,
-        url: "https://github.com/vivek9patel",
+        url: "https://github.com/NikolaDimitro",
         screen: () => {},
     },
     {
@@ -109,7 +109,7 @@ const apps = [
         favourite: false,
         desktop_shortcut: true,
         isExternalApp: true,
-        url: "https://www.vivek9patel.com/tars"
+        url: "https://www.nikoladimitro.com"
     },
 ]
 
